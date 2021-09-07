@@ -1,0 +1,3 @@
+class cred:
+    AWS_Access_Key_id = 'AKIAZEIYANLANJRHZJ72'
+    AWS_SECRET_ACCESS_KEY = '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'
