@@ -7,14 +7,14 @@ from datetime import datetime, timedelta
 
 # init s3 resource and client .
 s3_resource = boto3.resource('s3',
-         aws_access_key_id='AKIAZEIYANLANJRHZJ72',
-         aws_secret_access_key= '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')
+         aws_access_key_id='',
+         aws_secret_access_key= '')
 
 
 # init s3 client .
 s3_client = boto3.client('s3',
-         aws_access_key_id='AKIAZEIYANLANJRHZJ72',
-         aws_secret_access_key= '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')
+         aws_access_key_id='',
+         aws_secret_access_key= '')
 
 
 
